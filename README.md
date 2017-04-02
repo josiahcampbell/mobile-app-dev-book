@@ -2,7 +2,9 @@
 As of chapter 7
 
 `sudo gem install cocoapods`
+
 `pod setup`
+
 `pod install`
 
 Adding `Pods.xcodeproj` to Xcode as a Framework
